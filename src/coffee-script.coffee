@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+# CoffeeScript can be used both on the server, as a command-line compiler based
+# on Node.js/V8, or to run CoffeeScript directly in the browser. This module
+# contains the main entry functions for tokenizing, parsing, and compiling
+# source CoffeeScript into JavaScript.
+
+>>>>>>> 2d5a237... Added coffee-script def for kicks
 fs            = require 'fs'
 vm            = require 'vm'
 path          = require 'path'
@@ -6,12 +14,24 @@ path          = require 'path'
 helpers       = require './helpers'
 SourceMap     = require './sourcemap'
 
+<<<<<<< HEAD
+=======
+# The current CoffeeScript version number.
+>>>>>>> 2d5a237... Added coffee-script def for kicks
 exports.VERSION = '1.7.1'
 
 exports.FILE_EXTENSIONS = ['.coffee', '.litcoffee', '.coffee.md']
 
+<<<<<<< HEAD
 exports.helpers = helpers
 
+=======
+# Expose helpers for testing.
+exports.helpers = helpers
+
+# Function wrapper to add source file information to SyntaxErrors thrown by the
+# lexer/parser/compiler.
+>>>>>>> 2d5a237... Added coffee-script def for kicks
 withPrettyErrors = (fn) ->
   (code, options = {}) ->
     try
@@ -19,6 +39,18 @@ withPrettyErrors = (fn) ->
     catch err
       throw helpers.updateSyntaxError err, code, options.filename
 
+<<<<<<< HEAD
+=======
+# Compile CoffeeScript code to JavaScript, using the Coffee/Jison compiler.
+#
+# If `options.sourceMap` is specified, then `options.filename` must also be specified.  All
+# options that can be passed to `SourceMap#generate` may also be passed here.
+#
+# This returns a javascript string, unless `options.sourceMap` is passed,
+# in which case this returns a `{js, v3SourceMap, sourceMap}`
+# object, where sourceMap is a sourcemap.coffee#SourceMap object, handy for doing programatic
+# lookups.
+>>>>>>> 2d5a237... Added coffee-script def for kicks
 exports.compile = compile = withPrettyErrors (code, options) ->
   {merge, extend} = helpers
   options = extend {}, options
