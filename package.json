@@ -1,0 +1,21 @@
+{
+  "name": "art-repo",
+  "version": "0.0.0",
+  "description": "A collection of art commits",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/duereg/art-repo.git"
+  },
+  "keywords": [
+    "art",
+    "commit",
+    "git",
+    "gitcanvas"
+  ],
+  "author": "Matt Blair",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duereg/art-repo/issues"
+  },
+  "homepage": "https://github.com/duereg/art-repo"
+}
