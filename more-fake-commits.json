@@ -1,0 +1,157 @@
+[
+  {
+    "raw": "Wed Oct 09 2013 10:55:03 GMT-0700",
+    "date": "Wed Oct 09 14:00 2013 -0700",
+    "commits": 10
+  },
+  {
+    "raw": "Thu Oct 10 2013 10:55:03 GMT-0700",
+    "date": "Thu Oct 10 14:00 2013 -0700",
+    "commits": 1
+  },
+  {
+    "raw": "Mon Oct 14 2013 10:55:03 GMT-0700",
+    "date": "Mon Oct 14 14:00 2013 -0700",
+    "commits": 15
+  },
+  {
+    "raw": "Wed Oct 16 2013 10:55:03 GMT-0700",
+    "date": "Wed Oct 16 14:00 2013 -0700",
+    "commits": 6
+  },
+  {
+    "raw": "Fri Oct 18 2013 10:55:03 GMT-0700",
+    "date": "Fri Oct 18 14:00 2013 -0700",
+    "commits": 3
+  },
+  {
+    "raw": "Sat Oct 19 2013 10:55:03 GMT-0700",
+    "date": "Sat Oct 19 14:00 2013 -0700",
+    "commits": 4
+  },
+  {
+    "raw": "Sun Oct 20 2013 10:55:03 GMT-0700",
+    "date": "Sun Oct 20 14:00 2013 -0700",
+    "commits": 5
+  },
+  {
+    "raw": "Mon Oct 21 2013 10:55:03 GMT-0700",
+    "date": "Mon Oct 21 14:00 2013 -0700",
+    "commits": 6
+  },
+  {
+    "raw": "Wed Oct 23 2013 10:55:03 GMT-0700",
+    "date": "Wed Oct 23 14:00 2013 -0700",
+    "commits": 8
+  },
+  {
+    "raw": "Thu Oct 24 2013 10:55:03 GMT-0700",
+    "date": "Thu Oct 24 14:00 2013 -0700",
+    "commits": 9
+  },
+  {
+    "raw": "Fri Oct 25 2013 10:55:03 GMT-0700",
+    "date": "Fri Oct 25 14:00 2013 -0700",
+    "commits": 10
+  },
+  {
+    "raw": "Wed Nov 09 2013 10:55:03 GMT-0700",
+    "date": "Wed Nov 09 14:00 2013 -0700",
+    "commits": 1
+  },
+  {
+    "raw": "Thu Nov 10 2013 10:55:03 GMT-0700",
+    "date": "Thu Nov 10 14:00 2013 -0700",
+    "commits": 15
+  },
+  {
+    "raw": "Mon Nov 14 2013 10:55:03 GMT-0700",
+    "date": "Mon Nov 14 14:00 2013 -0700",
+    "commits": 7
+  },
+  {
+    "raw": "Wed Nov 16 2013 10:55:03 GMT-0700",
+    "date": "Wed Nov 16 14:00 2013 -0700",
+    "commits": 10
+  },
+  {
+    "raw": "Fri Nov 18 2013 10:55:03 GMT-0700",
+    "date": "Fri Nov 18 14:00 2013 -0700",
+    "commits": 8
+  },
+  {
+    "raw": "Sat Nov 19 2013 10:55:03 GMT-0700",
+    "date": "Sat Nov 19 14:00 2013 -0700",
+    "commits": 6
+  },
+  {
+    "raw": "Sun Nov 20 2013 10:55:03 GMT-0700",
+    "date": "Sun Nov 20 14:00 2013 -0700",
+    "commits": 4
+  },
+  {
+    "raw": "Mon Nov 21 2013 10:55:03 GMT-0700",
+    "date": "Mon Nov 21 14:00 2013 -0700",
+    "commits": 2
+  },
+  {
+    "raw": "Wed Nov 23 2013 10:55:03 GMT-0700",
+    "date": "Wed Nov 23 14:00 2013 -0700",
+    "commits": 1
+  },
+  {
+    "raw": "Thu Nov 24 2013 10:55:03 GMT-0700",
+    "date": "Thu Nov 24 14:00 2013 -0700",
+    "commits": 2
+  },
+  {
+    "raw": "Fri Nov 25 2013 10:55:03 GMT-0700",
+    "date": "Fri Nov 25 14:00 2013 -0700",
+    "commits": 1
+  },
+  {
+    "raw": "Tue Dec 17 2013 10:55:03 GMT-0800",
+    "date": "Tue Dec 17 14:00 2013 -0800",
+    "commits": 1
+  },
+  {
+    "raw": "Thu Dec 19 2013 10:55:03 GMT-0800",
+    "date": "Thu Dec 19 14:00 2013 -0800",
+    "commits": 3
+  },
+  {
+    "raw": "Sun Dec 22 2013 10:55:03 GMT-0800",
+    "date": "Sun Dec 22 14:00 2013 -0800",
+    "commits": 1
+  },
+  {
+    "raw": "Mon Dec 23 2013 10:55:03 GMT-0800",
+    "date": "Mon Dec 23 14:00 2013 -0800",
+    "commits": 5
+  },
+  {
+    "raw": "Tue Dec 24 2013 10:55:03 GMT-0800",
+    "date": "Tue Dec 24 14:00 2013 -0800",
+    "commits": 1
+  },
+  {
+    "raw": "Thu Dec 26 2013 10:55:03 GMT-0800",
+    "date": "Thu Dec 26 14:00 2013 -0800",
+    "commits": 1
+  },
+  {
+    "raw": "Wed Jan 01 2014 10:55:03 GMT-0800",
+    "date": "Wed Jan 01 14:00 2014 -0800",
+    "commits": 7
+  },
+  {
+    "raw": "Thu Jan 02 2014 10:55:03 GMT-0800",
+    "date": "Thu Jan 02 14:00 2014 -0800",
+    "commits": 1
+  },
+  {
+    "raw": "Fri Jan 03 2014 10:55:03 GMT-0800",
+    "date": "Fri Jan 03 14:00 2014 -0800",
+    "commits": 1
+  }
+]
